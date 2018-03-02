@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "770310937732",
+    "firebase_url": "https://fir-11e78.firebaseio.com",
+    "project_id": "fir-11e78",
+    "storage_bucket": "fir-11e78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770310937732:android:b394424e51eb53f4",
+        "android_client_info": {
+          "package_name": "id.villabs.realtimefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770310937732-nciue6mmp76m9f6pbo4vko5qt90f0i7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBULrvs4cdkjcDr3RBvxV3qQnIyCXv6vUo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
